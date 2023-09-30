@@ -1,0 +1,11 @@
+/* Ian Botsford id#8916536*/
+body{
+    font: normal normal normal 12px/1.5 Arial, Helvetica, sans-serif;
+    width: 100vw;
+    height: 100vh;
+    background-color: hsla(255, 98%, 18%, 0.5);
+}
+h2{
+    color: #fc9;
+    font-size: 0.75em;
+}
